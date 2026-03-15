@@ -8,7 +8,7 @@
   <img src="plots/logo.png" alt="yolo11n sample outputs">
 </p>
 <h1 align="center">
-    <a href="https://github.com/Armaggheddon/yolo11_doc_layout">Yolo Document Layout 🔎📄</a>
+    <a href="https://github.com/Armaggheddon/yolo_doc_layout">Yolo Document Layout 🔎📄</a>
 </h1>
 
 <div align="center">
@@ -26,7 +26,7 @@
   <a href="https://huggingface.co/Armaggheddon/yolo11-document-layout">
     <img src="https://img.shields.io/badge/yolo-11-green" alt="Hugging Face Models">
   </a>
-  <a href="https://github.com/Armaggheddon/yolo11_doc_layout/blob/main/LICENSE">
+  <a href="https://github.com/Armaggheddon/yolo_doc_layout/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
 </p>
