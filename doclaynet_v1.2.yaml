@@ -1,0 +1,18 @@
+path: dataset
+train: train
+val: val
+test: test
+
+nc: 11
+names: 
+  0: Caption
+  1: Footnote
+  2: Formula
+  3: List-item
+  4: Page-footer
+  5: Page-header
+  6: Picture
+  7: Section-header
+  8: Table
+  9: Text
+  10: Title

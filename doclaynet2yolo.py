@@ -4,7 +4,7 @@ from collections import defaultdict
 import tqdm
 import shutil
 
-DATASET_ROOT = Path(__file__).parent / "DocLayNet_core"
+DATASET_ROOT = Path(__file__).parent / "DocLayNet_v1.2"
 IMAGES_PATH = DATASET_ROOT / "PNG"
 TEST_ANN_PATH = DATASET_ROOT / "COCO" / "test.json"
 TRAIN_ANN_PATH = DATASET_ROOT / "COCO" / "train.json"

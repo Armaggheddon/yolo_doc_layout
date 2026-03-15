@@ -10,13 +10,13 @@ RESULT_PATH = Path(__file__).parent / "results"
 RESULT_PATH.mkdir(exist_ok=True)
 
 available_models = [
-    "yolo11n_doc_layout.pt",
-    "yolo11s_doc_layout.pt",
-    "yolo11m_doc_layout.pt",
+    "yolo26n_doc_layout.pt",
+    "yolo26s_doc_layout.pt",
+    "yolo26m_doc_layout.pt",
 ]
 
 model_path = hf_hub_download(
-    repo_id="Armaggheddon/yolo11-document-layout",
+    repo_id="Armaggheddon/yolo26-document-layout",
     filename=available_models[0],  # Change index for different models
     repo_type="model",
     local_dir=DOWNLOAD_PATH,
